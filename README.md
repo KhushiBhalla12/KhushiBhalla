@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Amazon Clone**
 - 🌱 I’m currently learning **Python, Data Structures & Algorithms**
 - 💬 Ask me about **HTML, CSS, JavaScript**
-- 📫 Reach me at **your.email@example.com** *(replace with your real one)*
+- 📫 Reach me at **Khushibhalla111@gmail.com** *(replace with your real one)*
 - ⚡ Fun fact: I love turning coffee into code ☕
 
 ---
