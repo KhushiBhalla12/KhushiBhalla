@@ -1,14 +1,14 @@
 # KhushiBhalla
 <h1 align="center">Hi 👋, I'm Khushi Bhalla</h1>
-<h3 align="center">Aspiring Software Developer | Lifelong Learner | Tech Enthusiast</h3>
+<h3 align="center">Aspiring BCA graduate | Lifelong Learner | Tech Enthusiast</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **Amazon Clone**
-- 🌱 I’m currently learning **Python, Data Structures & Algorithms**
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **AI ,Cybersecurity and ethical hacking**
+- 💬 Ask me about **HTML, CSS, Python and C**
 - 📫 Reach me at **Khushibhalla111@gmail.com** *(replace with your real one)*
 - ⚡ Fun fact: I love turning coffee into code ☕
 
