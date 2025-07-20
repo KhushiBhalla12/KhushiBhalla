@@ -3,6 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FC427B&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Khushi+Bhalla!;Aspiring+BCA+Graduate+🎓;Tech+Enthusiast+💡;Lifelong+Learner+🌱;Python+%7C+HTML+%7C+CSS+%7C+C+%7C+AI+🚀" alt="Typing SVG" />
 </p>
 
+</p>
+
+
 ---
 
 <h3 align="center">✨ Welcome to My GitHub Profile ✨</h3>
